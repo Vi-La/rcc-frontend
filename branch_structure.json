@@ -1,0 +1,33 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "cf-auth-responsive",
+    "ch-rcc-responsiveness",
+    "cy-fe-refacto-landing",
+    "dev",
+    "fe-refactor-fix",
+    "florien-fe-dash",
+    "ft-dashboard",
+    "origin"
+  ],
+  "parent": {
+    "cf-auth-responsive": "dev",
+    "ch-rcc-responsiveness": "dev",
+    "cy-fe-refacto-landing": "dev",
+    "dev": null,
+    "fe-refactor-fix": "dev",
+    "florien-fe-dash": "dev",
+    "ft-dashboard": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "cf-auth-responsive",
+    "ch-rcc-responsiveness",
+    "cy-fe-refacto-landing",
+    "fe-refactor-fix",
+    "florien-fe-dash",
+    "ft-dashboard",
+    "origin"
+  ]
+}
